@@ -1,0 +1,8 @@
+.heading{
+    flex: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-content: center;
+    color:blueviolet;
+    border:2px red dotted;
+    padding-left :200px;
+}
